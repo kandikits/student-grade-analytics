@@ -4,9 +4,8 @@ Analyse academic and non-academic records of students and apply predictive analy
 ### Quickstart guide
 
 Refer kits from the link below to jumpstart the app
-
-https://kandi.openweaver.com/collections/machine-learning/student-grades---predictive-analyti
-https://kandi.openweaver.com/collections/machine-learning/education:-starter-kit---student-pe
+* https://kandi.openweaver.com/collections/machine-learning/student-grades---predictive-analyti
+* https://kandi.openweaver.com/collections/machine-learning/education:-starter-kit---student-pe
 
 ### Installation Guide
 
