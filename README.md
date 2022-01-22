@@ -1,6 +1,13 @@
 # student-grade-analytics
 Analyse academic and non-academic records of students and apply predictive analytics to predict grades of students
 
+### Quickstart guide
+
+Refer kits from the link below to jumpstart the app
+
+https://kandi.openweaver.com/collections/machine-learning/student-grades---predictive-analyti
+https://kandi.openweaver.com/collections/machine-learning/education:-starter-kit---student-pe
+
 ### Installation Guide
 
 Once python3 is installed, install all the dependencies by running the below command.
