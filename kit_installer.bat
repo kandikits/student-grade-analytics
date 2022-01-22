@@ -14,7 +14,7 @@ SET REPO_DOWNLOAD_URL=https://github.com/kandikits/student-grade-analytics/relea
 SET REPO_DEPENDENCIES_URL=https://raw.githubusercontent.com/kandikits/student-grade-analytics/main/requirements.txt
 SET REPO_NAME=student-grade-analytics.zip
 SET EXTRACTED_REPO_DIR=student-grade-analytics-main
-SET NOTEBOOK_NAME=Predictive Analytics on Student grades.ipynb
+SET NOTEBOOK_NAME=Student Performance Prediction App.ipynb
 where /q python
 IF ERRORLEVEL 1 (
 	ECHO==========================================================================
